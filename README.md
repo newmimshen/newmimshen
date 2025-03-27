@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @newmimshen
+- 👀 I Lost my first github account due to 2fa lost application, it was @mmdshen
