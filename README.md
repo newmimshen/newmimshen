@@ -1,5 +1,5 @@
 ### <div align="center">Hi, I’m @newmimshen
-👀 my first Github acc was [@mmdshen](https://github.com/MMDShen/)</div>  
+👀 my first Github acc was [@mmdshen](https://github.com/MMDShen/), I lost its 2fa</div>  
   
 
 <br/>  
